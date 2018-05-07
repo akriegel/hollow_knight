@@ -1,0 +1,33 @@
+- King's Pass -> Ancestral Mound
+    - Start in King's Pass
+    - Go to Dirtmouth & down the well
+    - In crossroads, go down the main shaft past cornifer
+    - Go all the way east
+    - Go up one room past stag station and left
+    - Do false knight skip
+    - Clear Ancestral Mound
+        - Use bench
+- Ancestral Mound -> Greenpath
+    - Go left and up to the main shaft
+    - Go into greenpath entrance at the left
+    - Left all the way until seeing Hornet
+    - Do skip onto ledge
+    - Go all the way left
+    - Do Hornet fight
+    - Exit right, back down one room, unlock station
+- Greenpath -> Ancestral Mound
+    - Bench warp back to mound
+- Ancestral Mound -> Mantises
+    - Exit left and go down into Fugal Wastes
+    - Go right past mushroom dudes
+    - Go down all the way and either do the explode skip or go right
+    - Clear Mantis Village
+    - Clear Mantis Lords
+    - Get mantis geo chest and relic
+- Mantises -> Queen's Station
+- Queen's Station -> Ancestral Mound
+    - Bench warp back to Ancestral Mound
+- Ancestral Mound -> Resting Grounds
+    - Clear Gruuz Mother
+    - Shade skip into the lake
+    - Go get dream nail

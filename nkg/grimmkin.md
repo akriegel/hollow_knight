@@ -1,0 +1,12 @@
+- Grimmkin Novices:
+    - Greenpath (below thorns)
+    - City of Tears (right of elevator)
+    - Crystal Peaks (immediately right of Dirtmouth)
+- Grimmkin Masters:
+    - Kingdom's Edge (bottom of central room)
+    - Resting Grounds (left of elevator shaft)
+    - King's Pass
+- Grimmkin Nightmares:
+    - Hive (central room)
+    - Fungal Wastes (bottom-left corner)
+    - Ancient Basin (top part, left of broken elevator shaft from city of tears)
