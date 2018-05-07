@@ -1,7 +1,7 @@
 - King's Pass -> Ancestral Mound
     - Start in King's Pass
     - Go to Dirtmouth & down the well
-    - In crossroads, go down the main shaft past cornifer
+    - In crossroads, go down the main shaft past Cornifer
     - Go all the way east
     - Go up one room past stag station and left
     - Do false knight skip
@@ -9,7 +9,7 @@
         - Use bench
 - Ancestral Mound -> Greenpath
     - Go left and up to the main shaft
-    - Go into greenpath entrance at the left
+    - Go into Greenpath entrance at the left
     - Left all the way until seeing Hornet
     - Do skip onto ledge
     - Go all the way left
@@ -31,3 +31,60 @@
     - Clear Gruuz Mother
     - Shade skip into the lake
     - Go get dream nail
+    - Unlock stag station in Resting Grounds
+- Resting Grounds -> Dirtmouth
+    - Take stag station from Resting Grounds to Dirtmouth
+    - Bench in Dirtmouth
+- Dirtmouth -> Greenpath
+    - Stag station to Greenpath
+- Greenpath -> Howling Cliffs
+    - Clear double baldur fight
+    - Start Grimm Troupe
+- Howling Cliffs -> Dirtmouth
+    - Bench warp back to Dirtmouth
+    - Go to Grimm, get Grimmchild
+- Dirtmouth -> Greenpath
+    - Stag stag station
+    - Go down from station
+    - Open gate with lever
+    - Go right
+    - Clear first Grimmkin Novice
+- Greenpath -> Dirtmouth
+    - Bench warp back to Dirtmouth
+- Dirtmouth -> Resting Grounds
+    - Stag station
+- Resting Grounds -> City of Tears
+    - Go left and down, take the elevator
+    - From elevator shaft go right, down, left into city (from upper exit)
+    - Unlock King's Station
+    - Clear Gorgeous Husk
+    - Go left into the west half of the city
+    - Take first elevator up
+    - Go up the city to the bench at the upper left
+    - Use bench
+- City of Tears -> Ancient Basin
+    - Go back to eastern half of city
+    - Take bottom left exit
+    - Fall down broken elevator shaft, take the left exit
+    - Keep going left, take the exit down
+    - Go left and skip mawleks until double mawlek fight
+    - Clear double mawleks
+    - Grab pale ore
+- Ancient Basin -> City of Tears
+    - Bench warp
+    - Visit Lemm
+    - Visit Nailsmith and get 2 upgrades
+    - Bench warp
+    - Go east to stag station
+- City of Tears -> Dirtmouth
+    - Stag station
+    - Buy lamp from Sly
+    - Use bench in Dirtmouth
+- Dirtmouth -> Forgotten Crossroads
+    - Stag station
+- Forgotten Crossroads -> Crystal Peak
+    - Take upper-right exit from the room outside of stag station
+    - Go east
+    - Unlock the thing
+    - In Crystal Peak
+        - Right, up, up, all the way right
